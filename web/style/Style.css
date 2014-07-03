@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: smaller;
+    padding: 50px;
+    background-color: #f2e8c9;
+}
+select {
+    width: 25%;
+    font-size:large;
+    padding: 10px;
+    position: absolute;
+    left: 10%;
+}
+div{
+position: absolute;
+background-color:#7C7F83;
+top: 30%;
+width: 25%;
+height: 40%;
+ border: 2px solid; 
+  margin: 10px; 
+}
+
